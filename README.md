@@ -1,3 +1,3 @@
 # Telegram-bot-learning
  
- Процесс обучения и создания Telegram-boot с Spring Boot
+ Процесс обучения и создания Telegram-bot`а с Spring Boot
