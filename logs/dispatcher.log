@@ -1,0 +1,20 @@
+2022-10-31 19:03:27 DEBUG TelegramBot:30 - sdaf
+2022-10-31 19:03:28 DEBUG TelegramBot:30 - sadf
+2022-10-31 19:03:28 DEBUG TelegramBot:30 - sdaf
+2022-10-31 19:07:58 DEBUG TelegramBot:32 - sad
+2022-10-31 19:07:58 DEBUG TelegramBot:32 - sda
+2022-10-31 19:07:59 DEBUG TelegramBot:32 - dsa
+2022-10-31 19:12:19 DEBUG TelegramBot:34 - asd
+2022-10-31 19:16:28 DEBUG TelegramBot:34 - ads
+2022-11-01 13:24:37 DEBUG UpdateProducerImpl:15 - hello
+2022-11-01 13:24:50 DEBUG UpdateProducerImpl:15 - hello
+2022-11-01 13:25:00 ERROR UpdateController:37 - Unsupported message type is receivedUpdate(updateId=313544553, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=27, from=User(id=1528729169, firstName=Mikhail, isBot=false, lastName=null, userName=mihanik2828, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1667298275, chat=Chat(id=1528729169, type=private, title=null, firstName=Mikhail, lastName=null, userName=mihanik2828, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=hell, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1667298299, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2022-11-01 13:26:49 DEBUG UpdateProducerImpl:15 - l
+2022-11-01 13:30:53 DEBUG UpdateProducerImpl:15 - asd
+2022-11-01 13:31:07 DEBUG UpdateProducerImpl:15 - 
+2022-11-01 13:32:27 DEBUG UpdateProducerImpl:15 - 
+2022-11-01 13:33:26 DEBUG UpdateProducerImpl:15 - 
+2022-11-01 13:33:43 DEBUG UpdateProducerImpl:15 - 
+2022-11-01 13:33:59 DEBUG UpdateProducerImpl:15 - 
+2022-11-01 13:35:03 DEBUG UpdateProducerImpl:15 - 1
+2022-11-01 13:35:59 DEBUG UpdateProducerImpl:15 - 
